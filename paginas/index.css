@@ -1,0 +1,40 @@
+.body
+{
+background-color: dimgray;
+}
+.rubik-bubbles-regular {
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+.protest-revolution-regular {
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+
+.container
+{
+    background-color: aqua;
+    width: 400px;
+    height: 150px;
+
+}
+.container-fluid
+{
+    /*background-color: brown;
+    width: 400px;
+    height:150px ;*/
+}
+.row
+{
+    background-color:lightcoral;
+    margin: 5px;
+}
+.col
+{
+    background-color:aqua;
+    margin: 5px;
+}
